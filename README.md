@@ -9,7 +9,8 @@ Om flera tärningar av samma sort ska slås så anges det med en ledande siffra.
 ## Uppgiften
 
 Skriv ett program som beräknar den mest sannolika summan av de två tärningarna som slås.  
-Anta att varje tärning har numrerade sidor, som börjar på 1 och att varje sida har lika stor sannolikhet att den landas på.
+Anta att varje tärning har numrerade sidor där lägsta siffran är 1 och högsta siffran är det angivna talet.  
+Anta också att varje sida ha lika stor sannolikhet att landas på.
 
 **Input**  
 Inputen är en rad med två tal, N och M, som anger hur många sidor tärningen har.  
