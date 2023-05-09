@@ -12,7 +12,7 @@ Skriv ett program som beräknar den mest sannolika summan av de två tärningarn
 Anta att varje tärning har numrerade sidor, som börjar på 1 och att varje sida har lika stor sannolikhet att den landas på.
 
 **Input**  
-Inputen är en rad med två sal, N och M, som anger hur många sidor tärningen har.  
+Inputen är en rad med två tal, N och M, som anger hur många sidor tärningen har.  
 Tärningarna har mellan 4 och 20 sidor, dvs. 4 $\leq$ N,M $\leq$ 20.
 
 **Output**  
