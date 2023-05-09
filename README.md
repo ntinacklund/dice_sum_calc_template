@@ -24,7 +24,7 @@ Om det finns flera fall med samma sannolikhet så skriv ut dessa rad för rad i 
 Input #1
 
 ```cmd
-6 4
+6 6
 ```
 
 Output
